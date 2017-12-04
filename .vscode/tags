@@ -4,4 +4,28 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+captcha	../day1A.py	/^def captcha(s):$/;"	kind:function	line:9
+captcha2	../day1B.py	/^def captcha2(s):$/;"	kind:function	line:8
+checksum	../day2A.py	/^def checksum(sheet):$/;"	kind:function	line:4
+checksum	../day2B.py	/^def checksum(sheet):$/;"	kind:function	line:7
 day1A.py	../day1A.py	1;"	kind:file	line:1
+day1B.py	../day1B.py	1;"	kind:file	line:1
+day2A.py	../day2A.py	1;"	kind:file	line:1
+day2B.py	../day2B.py	1;"	kind:file	line:1
+day3A.py	../day3A.py	1;"	kind:file	line:1
+day3B.py	../day3B.py	1;"	kind:file	line:1
+diff	../day2A.py	/^def diff(line):$/;"	kind:function	line:1
+diff	../day2B.py	/^def diff(line):$/;"	kind:function	line:1
+find_matches	../day1A.py	/^def find_matches(s):$/;"	kind:function	line:1
+find_matches2	../day1B.py	/^def find_matches2(s):$/;"	kind:function	line:1
+generate_spiral	../day3A.py	/^def generate_spiral(n):$/;"	kind:function	line:14
+generate_spiral	../day3B.py	/^def generate_spiral(n):$/;"	kind:function	line:21
+main	../day3A.py	/^def main():$/;"	kind:function	line:34
+main	../day3B.py	/^def main():$/;"	kind:function	line:38
+move	../day3A.py	/^def move(pos, dir):$/;"	kind:function	line:3
+move	../day3B.py	/^def move(pos, dir):$/;"	kind:function	line:3
+neighbors	../day3B.py	/^def neighbors(pos):$/;"	kind:function	line:17
+num_steps_to	../day3A.py	/^def num_steps_to(pos):$/;"	kind:function	line:30
+parse_sheet	../day2A.py	/^def parse_sheet(s):$/;"	kind:function	line:7
+parse_sheet	../day2B.py	/^def parse_sheet(s):$/;"	kind:function	line:10
+sum_neighbors	../day3B.py	/^def sum_neighbors(g, pos):$/;"	kind:function	line:14
