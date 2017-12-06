@@ -1,4 +1,4 @@
-# advent2017
+# 🎄 advent2017 🎄
 This repo contains the code I used to solve Advent of Code 2017.
 
 # License
