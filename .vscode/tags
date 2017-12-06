@@ -14,18 +14,32 @@ day2A.py	../day2A.py	1;"	kind:file	line:1
 day2B.py	../day2B.py	1;"	kind:file	line:1
 day3A.py	../day3A.py	1;"	kind:file	line:1
 day3B.py	../day3B.py	1;"	kind:file	line:1
+day4A.py	../day4A.py	1;"	kind:file	line:1
+day4B.py	../day4B.py	1;"	kind:file	line:1
+day5A.py	../day5A.py	1;"	kind:file	line:1
+day5B.py	../day5B.py	1;"	kind:file	line:1
 diff	../day2A.py	/^def diff(line):$/;"	kind:function	line:1
 diff	../day2B.py	/^def diff(line):$/;"	kind:function	line:1
 find_matches	../day1A.py	/^def find_matches(s):$/;"	kind:function	line:1
 find_matches2	../day1B.py	/^def find_matches2(s):$/;"	kind:function	line:1
 generate_spiral	../day3A.py	/^def generate_spiral(n):$/;"	kind:function	line:14
 generate_spiral	../day3B.py	/^def generate_spiral(n):$/;"	kind:function	line:21
+get_input	../day5A.py	/^def get_input():$/;"	kind:function	line:1
+get_input	../day5B.py	/^def get_input():$/;"	kind:function	line:1
+is_valid	../day4A.py	/^def is_valid(line):$/;"	kind:function	line:7
+is_valid	../day4B.py	/^def is_valid(line):$/;"	kind:function	line:7
 main	../day3A.py	/^def main():$/;"	kind:function	line:34
 main	../day3B.py	/^def main():$/;"	kind:function	line:38
+main	../day4A.py	/^def main():$/;"	kind:function	line:1
+main	../day4B.py	/^def main():$/;"	kind:function	line:1
+main	../day5A.py	/^def main():$/;"	kind:function	line:18
+main	../day5B.py	/^def main():$/;"	kind:function	line:21
 move	../day3A.py	/^def move(pos, dir):$/;"	kind:function	line:3
 move	../day3B.py	/^def move(pos, dir):$/;"	kind:function	line:3
 neighbors	../day3B.py	/^def neighbors(pos):$/;"	kind:function	line:17
 num_steps_to	../day3A.py	/^def num_steps_to(pos):$/;"	kind:function	line:30
 parse_sheet	../day2A.py	/^def parse_sheet(s):$/;"	kind:function	line:7
 parse_sheet	../day2B.py	/^def parse_sheet(s):$/;"	kind:function	line:10
+run_maze	../day5A.py	/^def run_maze(maze):$/;"	kind:function	line:6
+run_maze	../day5B.py	/^def run_maze(maze):$/;"	kind:function	line:6
 sum_neighbors	../day3B.py	/^def sum_neighbors(g, pos):$/;"	kind:function	line:14
